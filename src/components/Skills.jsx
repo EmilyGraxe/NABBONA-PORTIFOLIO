@@ -17,6 +17,8 @@ const groups = [
     title: "Backend",
     items: [
       { name: "Node.js", level: 92 },
+      { name: "Kotlin", level: 90 },
+      { name: "Java", level: 88 },
       { name: "Express.js", level: 92 },
       { name: "Python", level: 90 },
       { name: "Django", level: 88 },
