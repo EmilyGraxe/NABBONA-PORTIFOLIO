@@ -36,7 +36,7 @@ export default function Contact() {
           <div className="contact-socials">
             <a href="https://github.com/EmilyGraxe" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={18} /></a>
             <a href="https://www.linkedin.com/in/emirina-nabbona-2a4558361?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={18} /></a>
-            <a href="https://twitter.com/EmilyGraxe" target="_blank" rel="noreferrer" aria-label="Twitter"><Twitter size={18} /></a>
+            <a href="https://x.com/egraxe25906?s=11" target="_blank" rel="noreferrer" aria-label="Twitter"><Twitter size={18} /></a>
           </div>
         </div>
 

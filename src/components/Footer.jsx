@@ -22,7 +22,7 @@ export default function Footer() {
               <a href="mailto:graxeemily@gmail.com">Email <ArrowUpRight size={12} /></a>
               <a href="https://github.com/EmilyGraxe" target="_blank" rel="noreferrer">GitHub <ArrowUpRight size={12} /></a>
               <a href="https://www.linkedin.com/in/emirina-nabbona-2a4558361?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noreferrer">LinkedIn <ArrowUpRight size={12} /></a>
-              <a href="https://twitter.com" target="_blank" rel="noreferrer">Twitter <ArrowUpRight size={12} /></a>
+              <a href="https://x.com/egraxe25906?s=11" target="_blank" rel="noreferrer">Twitter <ArrowUpRight size={12} /></a>
             </div>
           </div>
         </div>
@@ -31,7 +31,7 @@ export default function Footer() {
           <div className="footer-social">
             <a href="https://github.com/EmilyGraxe" target="_blank" rel="noreferrer" aria-label="GitHub"><Github size={16} /></a>
             <a href="https://www.linkedin.com/in/emirina-nabbona-2a4558361?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank" rel="noreferrer" aria-label="LinkedIn"><Linkedin size={16} /></a>
-            <a href="https://twitter.com" target="_blank" rel="noreferrer" aria-label="Twitter"><Twitter size={16} /></a>
+            <a href="https://x.com/egraxe25906?s=11" target="_blank" rel="noreferrer" aria-label="Twitter"><Twitter size={16} /></a>
           </div>
         </div>
       </div>
