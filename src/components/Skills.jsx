@@ -31,7 +31,7 @@ const groups = [
   {
     title: "Cloud, DevOps & Deployment",
     items: [
-      { name: "Git & GitHub", level: 95 },
+      { name: "Git & GitHub Actions", level: 95 },
       { name: "Docker", level: 82 },
       { name: "Kubernetes", level: 72 },
       { name: "AWS", level: 75 },
@@ -57,7 +57,7 @@ const groups = [
   },
 
   {
-    title: "Design & Engineering",
+    title: "Design & Collaboration",
     items: [
       { name: "Figma", level: 85 },
       { name: "Canva", level: 92 },
@@ -65,8 +65,10 @@ const groups = [
       { name: "Draw.io", level: 92 },
       { name: "UI/UX Design", level: 88 },
       { name: "ERD Design", level: 90 },
-      { name: "System Architecture", level: 85 },
-      { name: "Wireframing", level: 88 },
+      { name: "Github", level: 90 },
+      { name: "Slack", level: 99 },
+      { name: "Trello", level: 90 },
+      { name: "Asana", level: 99 }
     ],
   },
 
@@ -74,7 +76,7 @@ const groups = [
     title: "Developer Tools & Automation",
     items: [
       { name: "Postman", level: 92 },
-      { name: "pgAdmin", level: 90 },
+      { name: "wokwi", level: 90 },
       { name: "VS Code", level: 98 },
       { name: "Twilio API", level: 88 },
       { name: "SMTP Email", level: 90 },
